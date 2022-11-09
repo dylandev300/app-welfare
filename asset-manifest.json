@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/app-welfare/static/js/main.780dbd92.js",
+    "static/js/787.05da5464.chunk.js": "/app-welfare/static/js/787.05da5464.chunk.js",
+    "static/media/grain.mp4": "/app-welfare/static/media/grain.ae42c752076e11547033.mp4",
+    "static/media/scale.gif": "/app-welfare/static/media/scale.cdb2c28100d90008540c.gif",
+    "static/media/N1.jpg": "/app-welfare/static/media/N1.a58cfd502699eed5ff6f.jpg",
+    "static/media/Logos.png": "/app-welfare/static/media/Logos.d36d9bf62edc2d354ce8.png",
+    "static/media/Logo.png": "/app-welfare/static/media/Logo.c5136af3c0abe3f2dac9.png",
+    "static/media/load.gif": "/app-welfare/static/media/load.9d8afc3803b44c4dbadc.gif",
+    "index.html": "/app-welfare/index.html",
+    "main.780dbd92.js.map": "/app-welfare/static/js/main.780dbd92.js.map",
+    "787.05da5464.chunk.js.map": "/app-welfare/static/js/787.05da5464.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.780dbd92.js"
+  ]
+}
